@@ -8,3 +8,6 @@ AutoTemp is an essential and easy-to-use application that specializes in optimiz
  Startup Program Management: AutoTemp analyzes and optimizes programs that start along with the operating system, speeding up boot time and improving the overall speed of your PC.
 
  Friendly Interface: AutoTemp's intuitive interface makes it easy to use for users of all experience levels, without the need for complicated configurations.
+
+
+ Download : [here](https://github.com/ItsFeny/AutoTemp/releases/tag/Exe)
